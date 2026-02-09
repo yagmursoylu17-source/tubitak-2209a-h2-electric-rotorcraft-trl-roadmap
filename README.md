@@ -5,7 +5,7 @@ Portfolio repository for our TÜBİTAK 2209-A team project on a **hydrogen fuel-
 ## Team
 - Halime Nur Ateş (name shown on the official submission cover due to application format)
 - Zehra Yağmur Soylu
-- Oğuz Akpınar
+- Oğuzhan Akpınar
 - Melih Mergen
 
 > **Authorship note:** Although the official submission document may display only the applicant/lead name on the cover page, the research, literature survey, analysis, modeling, and TRL roadmap work were carried out collaboratively by the full team listed above.
